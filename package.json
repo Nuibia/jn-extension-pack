@@ -1,0 +1,42 @@
+{
+    "name": "jn-extension-pack",
+    "displayName": "jn-extension-pack",
+    "description": "江鸟的插件包",
+    "version": "0.0.1",
+    "publisher":"jiangniao",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "abusaidm.html-snippets", 
+        "christian-kohler.path-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "eamodio.gitlens", 
+        "ecmel.vscode-html-css", 
+        "Equinusocio.vsc-community-material-theme", 
+        "Equinusocio.vsc-material-theme", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "jiangniao.jn-snippets", 
+        "jpoissonnier.vscode-styled-components", 
+        "MS-CEINTL.vscode-language-pack-zh-hans", 
+        "naumovs.color-highlight", 
+        "oderwat.indent-rainbow", 
+        "PKief.material-icon-theme", 
+        "qinjia.view-in-browser", 
+        "ritwickdey.LiveServer", 
+        "russell.any-rule", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "streetsidesoftware.code-spell-checker", 
+        "stxr.iconfont-preview", 
+        "TabNine.tabnine-vscode", 
+        "vincaslt.highlight-matching-tag", 
+        "wayou.vscode-todo-highlight"
+    ]
+}
