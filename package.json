@@ -2,10 +2,11 @@
     "name": "jn-extension-pack",
     "displayName": "jn-extension-pack",
     "description": "江鸟的插件包",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher":"jiangniao",
+    "repository": "https://github.com/Nuibia/jn-extension-pack",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.37.1"
     },
     "categories": [
         "Extension Packs"
@@ -23,7 +24,6 @@
         "esbenp.prettier-vscode", 
         "formulahendry.auto-close-tag", 
         "formulahendry.auto-rename-tag", 
-        "jiangniao.jn-snippets", 
         "jpoissonnier.vscode-styled-components", 
         "MS-CEINTL.vscode-language-pack-zh-hans", 
         "naumovs.color-highlight", 

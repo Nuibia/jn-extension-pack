@@ -1,9 +1,2 @@
-# Change Log
-
-All notable changes to the "jn-extension-pack" extension pack will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## 2022年01月06日
+> 项目初始化
