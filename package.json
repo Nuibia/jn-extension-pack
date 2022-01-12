@@ -2,7 +2,7 @@
   "name": "byai-extension-pack",
   "displayName": "byai-extension-pack",
   "description": "百应前端插件包",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "jiangniao",
   "repository": "https://github.com/Nuibia/jn-extension-pack",
   "icon": "icon.png",
@@ -13,16 +13,15 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "formulahendry.auto-rename-tag",
     "streetsidesoftware.code-spell-checker",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "eamodio.gitlens",
-    "yzhang.markdown-all-in-one",
     "christian-kohler.path-intellisense",
     "dsznajder.es7-react-js-snippets",
     "styled-components.vscode-styled-components",
     "TabNine.tabnine-vscode",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "EditorConfig.EditorConfig"
   ]
 }
