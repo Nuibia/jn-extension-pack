@@ -2,7 +2,7 @@
   "name": "byai-extension-pack",
   "displayName": "byai-extension-pack",
   "description": "百应前端插件包",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "jiangniao",
   "repository": "https://github.com/Nuibia/jn-extension-pack",
   "icon": "icon.png",
@@ -13,22 +13,16 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
-    "ms-ceintl.vscode-language-pack-zh-hans",
     "streetsidesoftware.code-spell-checker",
-    "naumovs.color-highlight",
-    "dsznajder.es7-react-js-snippets",
     "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
     "eamodio.gitlens",
-    "abusaidm.html-snippets",
-    "stxr.iconfont-preview",
-    "ritwickdey.LiveServer",
     "yzhang.markdown-all-in-one",
     "christian-kohler.path-intellisense",
-    "esbenp.prettier-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "styled-components.vscode-styled-components",
     "TabNine.tabnine-vscode",
-    "wayou.vscode-todo-highlight",
-    "styled-components.vscode-styled-components"
+    "wayou.vscode-todo-highlight"
   ]
 }
