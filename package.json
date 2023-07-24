@@ -1,6 +1,6 @@
 {
-  "name": "byai-extension-pack",
-  "displayName": "byai-extension-pack",
+  "name": "fe-extension-pack",
+  "displayName": "fe-extension-pack",
   "description": "前端插件包",
   "version": "0.0.5",
   "publisher": "jiangniao",
@@ -12,16 +12,23 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [
-    "streetsidesoftware.code-spell-checker",
+  "extensionPack": [    
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "streetsidesoftware.code-spell-checker",
+
     "eamodio.gitlens",
+
     "christian-kohler.path-intellisense",
     "dsznajder.es7-react-js-snippets",
-    "styled-components.vscode-styled-components",
     "TabNine.tabnine-vscode",
-    "wayou.vscode-todo-highlight",
+
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+
+    "wayou.vscode-todo-highlight",    
+    
     "EditorConfig.EditorConfig"
   ]
 }
