@@ -1,7 +1,7 @@
 {
   "name": "byai-extension-pack",
   "displayName": "byai-extension-pack",
-  "description": "百应前端插件包",
+  "description": "前端插件包",
   "version": "0.0.5",
   "publisher": "jiangniao",
   "repository": "https://github.com/Nuibia/jn-extension-pack",

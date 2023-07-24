@@ -1,4 +1,4 @@
-# 百应前端插件包
+# 前端插件包
 ## 插件内容
 ### 1. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     帮助我们检查单词拼写是否出现错误，检查的规则遵循 camelCase （驼峰拼写法）
