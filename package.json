@@ -1,11 +1,10 @@
 {
-  "name": "fe-extension-pack",
-  "displayName": "fe-extension-pack",
+  "name": "jn-extension-pack",
+  "displayName": "jn-extension-pack",
   "description": "前端插件包",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "publisher": "jiangniao",
   "repository": "https://github.com/Nuibia/jn-extension-pack",
-  "icon": "icon.png",
   "engines": {
     "vscode": "^1.37.1"
   },
@@ -28,7 +27,7 @@
     "pranaygp.vscode-css-peek",
 
     "wayou.vscode-todo-highlight",    
-    
+
     "EditorConfig.EditorConfig"
   ]
 }
